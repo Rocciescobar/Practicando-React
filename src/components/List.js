@@ -1,7 +1,7 @@
 import React from 'react';
 
 const List = () => (
-  <ul>
+  <ul className='mx-5'>
     <li>Escuchar musica</li>
     <li>Bailar</li>
     <li>Ver series</li>
